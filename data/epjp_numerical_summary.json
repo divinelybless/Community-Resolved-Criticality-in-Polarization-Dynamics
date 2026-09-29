@@ -1,0 +1,41 @@
+{
+  "cooperative": {
+    "q": [1.1160047846064858, 0.8617231593133063],
+    "lambda_max": 1.068035383056845,
+    "tau_c_analytic": 0.9362985682533105,
+    "tau_c_continuation_fit": 0.936297188240114,
+    "tau_c_relative_error": -1.4739029229417422e-06,
+    "critical_eigenvector": [0.8746883323870286, 0.4846857963526466],
+    "kappa": 0.2336617453831496,
+    "critical_exponent_fit": 0.49959670485536894,
+    "amplitude_prefactor_fit": 2.0604397494550892,
+    "amplitude_prefactor_theory": 2.0687413336920795,
+    "angle_deg_at_smallest_mu": 0.0002369648716721643,
+    "max_real_jacobian_on_computed_branch": -1.9999708744777855e-05
+  },
+  "gamma_sweep": {
+    "max_relative_threshold_error": 3.988822094292463e-06
+  },
+  "mode_switching": {
+    "R1": 1.1075,
+    "R2": 0.9075000000000001,
+    "gamma1_switch_analytic": 1.3296649711748945,
+    "gamma1_switch_numerical_mu_1e-3": 1.3295401296579603,
+    "gamma1_switch_relative_error": -9.388945308820055e-05,
+    "max_abs_ratio_error_at_mu_1e-3": 0.0020678618616276623
+  },
+  "hidden_polarization": {
+    "q": 1.1762353644395753,
+    "lambda_max": 1.2938589008835328,
+    "tau_c_analytic": 0.7728818028898928,
+    "tau_c_continuation_fit": 0.7728803836881687,
+    "tau_c_relative_error": -1.8362467829276603e-06,
+    "kappa": 0.1839215463296364,
+    "max_abs_global_mean": 5.551115123125783e-17,
+    "max_Pcom_in_plot": 0.8243481054421915
+  },
+  "classical_limit": {
+    "tau_c_classical": 0.746717720539102,
+    "quadratic_exponent_fit": 1.9997302679576714
+  }
+}
